@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-OVERLAY_DEVICE := jprime
+OVERLAY_DEVICE := j4primelte
 
 # Inherit from msm8917-common
 $(call inherit-product, device/samsung/msm8917-common/msm8917.mk)
